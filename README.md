@@ -20,7 +20,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
 | 🎗️ | [Unixstickers](http://www.unixstickers.com/) | Stickers, t-shirts, mugs and posters on unix, programming and open source.        |
 | 🎗️ | [Sticker Mule](https://www.stickermule.com) | Custom stickers that kick ass. |
-
+| 🎗️ | [Heroku](https://heroku.com/)    |    A cloud application platform for Ruby, Rails, Node.  |
+| 🎗️ | [Bitbucket](https://bitbucket.org/)    |    A code hosting site, for the Git and Mercurial version control system.  |
 
  ### :hamburger::pizza: Food
  
@@ -28,9 +29,9 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
- | 🎗️ | [Just Eat]( https://www.just-eat.co.uk) | Food delivery.         |
- | 🎗️ | [Red Bull]( http://energydrink.redbull.com/) | Giving wings to people and ideas.        |
-
+ | 🎗️ | [Just Eat](https://www.just-eat.co.uk) | Food delivery.         |
+ | 🎗️ | [Red Bull](http://energydrink.redbull.com/) | Giving wings to people and ideas.        |
+ | 🎗️ | [Takeaway](https://www.takeaway.com) | Order food the easy way.        |
  
 
  ### :office::house: Venues
@@ -76,6 +77,11 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Jenkins](https://jenkins.io/) | A fork of Hudson and is a continuous build system for software projects. |
 | 🎗️ | [JetBrains TeamCity](https://www.jetbrains.com/teamcity/) | A continuous integration and build management system. |
 | 🎗️ | [AppVeyor](https://www.appveyor.com/) | Continuous Integration for busy developers AppVeyor automates building, testing and deployment of .NET applications. |
+| 🎗️ | [Codeship](https://codeship.com/) | Codeship is a hosted Continuous Delivery Service that integrates with GitHub and Bitbucket. |
+| 🎗️ | [GoCD](https://www.gocd.org/) | Open source continuous delivery server with a first-class build and deployment engine for complete control and visibility. |
+| 🎗️ | [Vexor.io](https:/vexor.io/) | A fast and cheap, cloud continuous integration service with per-minute billing. |
+| 🎗️ | [Hudson](http://hudson-ci.org/) | Hudson monitors executions of repeated jobs, such as building a software project or jobs run by cron. |
+| 🎗️ | [Bitrise](https://www.bitrise.io/) | Automate your iOS development - From building through testing to deployment Bitrise can automate your daily development tasks. |
 
  ### 🤔 Other
  
