@@ -40,8 +40,10 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
  | 🎗️ | [Capital One](https://www.capitalone.co.uk/) | Credit Cards.         |
+ | 🎗️ | [Curve](https://www.imaginecurve.com/) | Connect all your (Credit) cards together.         |
+ | 🎗️ | [BlackRock](https://www.blackrock.com) |  Trusted to manage more money than any other investment manager in the world.         |
 
- ### :computer: Hardware
+### :computer: Hardware
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -75,12 +77,12 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
 | 🎗️ | [CARFAX](https://www.carfax.eu) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. They’ve got tons of job opportunities for hackers to jumpstart their careers early!|
 | 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
-| 🎗️ | [Skyscanner](https://skyscanner.com/) | Search easily for flights, cars and hotels, all in one place.|
-| 🎗️ | [GetResponse](https://getresponse.com/) | GetResponse is an email marketing platform for building complete marketing programs in one spot.
-| 🎗️ | [Domain.com](https://domain.com/) | Domain.com is the go-to site for reliable domain name registration and web hosting.|
-| 🎗️ | [Zalando](https://zalando.com/) | Zalando is Europe’s leading online fashion platform, with millions of customers in 15 countries.|
+| 🎗️ | [AND Digital](https://and.digital/) | Building and developing software products in multiple languages.|
+| 🎗️ | [Pusher](https://pusher.com/) | We spend our time maintaining reliable and scalable realtime infrastructure so you can spend yours building awesome realtime features.|
+| 🎗️ | [Skyscanner](https://www.skyscanner.net/) | Compare your flights, hotels and car hire.|
+| 🎗️ | [P2Pkit](http://p2pkit.io/) | Enable your apps to understand their proximity to nearby devices.|
+| 🎗️ | [Chirp](https://www.chirp.io/) | Connecting millions of devices for leading brands in over 90 countries.|
 
- 
 
  
  ## License
