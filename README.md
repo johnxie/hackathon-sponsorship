@@ -16,6 +16,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is version control platform for the everyday coder.  |
 | 🎗️ | [Digital Ocean](https://www.digitalocean.com/community/questions/discounts-or-support-for-nonprofit-organisation) | Need web hosting, cloud storage? Get a droplet today.         |
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
+| 🎗️ | [Unixstickers](http://www.unixstickers.com/) | Stickers, t-shirts, mugs and posters on unix, programming and open source.        |
+
 
  ### :hamburger::pizza: Food
 
@@ -70,7 +72,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
 | 🎗️ | [PubNub](https://www.pubnub.com/) | Provides realtime services and APIs for developers for mobile, web and IoT. |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
-
+| 🎗️ | [CARFAX](https://www.carfax.eu) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. They’ve got tons of job opportunities for hackers to jumpstart their careers early!|
+| 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
 
  
 
