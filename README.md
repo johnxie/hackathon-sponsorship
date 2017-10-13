@@ -24,6 +24,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
  | 🎗️ | [Just Eat]( https://www.just-eat.co.uk) | Food delivery.         |
+ | 🎗️ | [Red Bull]( http://energydrink.redbull.com/) | Giving wings to people and ideas         |
+
  
 
  ### :office::house: Venues
@@ -68,8 +70,11 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
+| 🎗️ | [PubNub](https://www.pubnub.com/) | Provides realtime services and APIs for developers for mobile, web and IoT. |
+| 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
 | 🎗️ | [CARFAX](https://www.carfax.eu) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. They’ve got tons of job opportunities for hackers to jumpstart their careers early!|
 | 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
+
  
 
  
