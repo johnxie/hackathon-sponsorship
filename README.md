@@ -64,6 +64,19 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
 
+### 💻 CI
+ 
+ Need a continuous integration service? Check out one of these.
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 🎗️ | [Travis CI](https://travis-ci.org/) | A hosted continuous integration service for open source projects.         |
+| 🎗️ | [Style CI](https://styleci.io/) | The PHP Coding Style Service, a Continuous integration with a difference.         |
+| 🎗️ | [Circle CI](https://circleci.com/) | Automate the software development process using continuous integration and continuous delivery.         |
+| 🎗️ | [Jenkins](https://jenkins.io/) | A fork of Hudson and is a continuous build system for software projects. |
+| 🎗️ | [JetBrains TeamCity](https://www.jetbrains.com/teamcity/) | A continuous integration and build management system. |
+| 🎗️ | [AppVeyor](https://www.appveyor.com/) | Continuous Integration for busy developers AppVeyor automates building, testing and deployment of .NET applications. |
+
  ### 🤔 Other
  
  Other generous companies that often sponsor hackathons. (Create new categories if you have ideas!)
