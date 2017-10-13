@@ -107,6 +107,7 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Skyscanner](https://www.skyscanner.net/) | Compare your flights, hotels and car hire.|
 | 🎗️ | [P2Pkit](http://p2pkit.io/) | Enable your apps to understand their proximity to nearby devices.|
 | 🎗️ | [Chirp](https://www.chirp.io/) | Connecting millions of devices for leading brands in over 90 countries.|
+| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound.|
 
 
  
