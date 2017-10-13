@@ -10,6 +10,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :gift: Swag
  
+ These companies generally provide 'swag' for your hackathon, for example: Stickers, Cakes, T-Shirts, Domains, etc
+ 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
@@ -21,6 +23,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
 
  ### :hamburger::pizza: Food
+ 
+  Try these companies if you're looking for 'food' sponsorship.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -30,12 +34,16 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  
 
  ### :office::house: Venues
+ 
+ Potential venues, generally either free co-working spaces or companies that hackathons use their offices.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [Google Campus](https://www.campus.co/) | Free event space & coworking.         |
 
  ### :moneybag: Money
+ 
+ Need some money for your hackathon? Try these companies.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -44,6 +52,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  | 🎗️ | [BlackRock](https://www.blackrock.com) |  Trusted to manage more money than any other investment manager in the world.         |
 
 ### :computer: Hardware
+
+Looking to get some hardware for your hackathon? These are your guys.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -55,6 +65,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
 
  ### 🤔 Other
+ 
+ Other generous companies that often sponsors hackathons, we're yet to categorize them.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|     
