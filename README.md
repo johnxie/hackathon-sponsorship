@@ -35,7 +35,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :office::house: Venues
  
- Potential venues, generally either free co-working spaces or companies that hackathons use their offices.
+ In need of a venue? These companies have been known to offer free space for hackathons.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -43,7 +43,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :moneybag: Money
  
- Need some money for your hackathon? Try these companies.
+ Need some money for your hackathon? Try these kind companies.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -66,7 +66,7 @@ Looking to get some hardware for your hackathon? These are your guys.
 
  ### 🤔 Other
  
- Other generous companies that often sponsors hackathons, we're yet to categorize them.
+ Other generous companies that often sponsor hackathons. (Create new categories if you have ideas!)
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|     
