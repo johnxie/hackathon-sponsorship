@@ -68,8 +68,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
+| 🎗️ | [CARFAX](https://www.carfax.eu) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. They’ve got tons of job opportunities for hackers to jumpstart their careers early!|
 | 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
-| 🎗️ | [.tech](https://hackajob.co/) | .tech domain name registration.|
  
 
  
