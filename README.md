@@ -10,7 +10,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :gift: Swag
  
- These companies generally provide 'swag' for your hackathon, for example: Stickers, Cakes, T-Shirts, Domains, etc
+ These companies generally provide 'swag' for your hackathon, for example: Stickers, Cakes, T-Shirts, Domains, etc.
  
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -24,7 +24,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :hamburger::pizza: Food
  
-  Try these companies if you're looking for 'food' sponsorship.
+  Try these companies if you're looking for 'food' sponsorship:
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -35,7 +35,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :office::house: Venues
  
- In need of a venue? These companies have been known to offer free space for hackathons.
+ In need of a venue? These companies have been known to offer free space for hackathons:
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -43,7 +43,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ### :moneybag: Money
  
- Need some money for your hackathon? Try these kind companies.
+ Need some money for your hackathon? Try these kind companies:
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -53,7 +53,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
 ### :computer: Hardware
 
-Looking to get some hardware for your hackathon? These are your guys.
+Looking to get some hardware for your hackathon? These are your guys:
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -85,7 +85,7 @@ Looking to get some hardware for your hackathon? These are your guys.
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
-| 🎗️ | [PubNub](https://www.pubnub.com/) | Provides realtime services and APIs for developers for mobile, web and IoT. |
+| 🎗️ | [PubNub](https://www.pubnub.com/) | Provides real-time services and APIs for developers for mobile, web and IoT. |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
 | 🎗️ | [CARFAX](https://www.carfax.eu) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. They’ve got tons of job opportunities for hackers to jumpstart their careers early!|
 | 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
