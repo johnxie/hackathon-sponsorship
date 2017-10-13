@@ -29,7 +29,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
  | 🎗️ | [Just Eat]( https://www.just-eat.co.uk) | Food delivery.         |
- | 🎗️ | [Red Bull]( http://energydrink.redbull.com/) | Giving wings to people and ideas         |
+ | 🎗️ | [Red Bull]( http://energydrink.redbull.com/) | Giving wings to people and ideas.        |
 
  
 
