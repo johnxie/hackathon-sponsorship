@@ -7,7 +7,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  ## Potential Sponsors
  
  ### Think there's someone missing? Add them here!
-
+ 
  ### :gift: Swag
  
  These companies generally provide 'swag' for your hackathon, for example: Stickers, Cakes, T-Shirts, Domains, etc.
@@ -64,6 +64,16 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Makers of the Myo Gesture Control Armband.        |
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
+
+### :computer: APIs
+
+These sponsors come to events to encourage hackers to hack with their APIs and often offer prizes.
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 🎗️ | [Wolfram](https://www.wolfram.com/hackathons/) | Amazing API sponsor, great at engaging with and supporting hackers.|
+| 🎗️ | [Lyft](https://www.lyft.com) | Ride sharing service, most recently promoting their new API.|
+
 
 ### 💻 CI
  
