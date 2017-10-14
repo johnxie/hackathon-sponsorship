@@ -32,7 +32,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  | 🎗️ | [Just Eat](https://www.just-eat.co.uk) | Food delivery.         |
  | 🎗️ | [Red Bull](http://energydrink.redbull.com/) | Giving wings to people and ideas.        |
  | 🎗️ | [Takeaway](https://www.takeaway.com) | Order food the easy way.        |
- 
+ | 🎗️ | [Awake Chocolate](https://awakechocolate.com) | Delicious caffeinated milk chocolate.        | 
+
 
  ### :office::house: Venues
  
@@ -64,6 +65,7 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Makers of the Myo Gesture Control Armband.        |
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
+| 🎗️ | [Qualcomm](https://www.qualcomm.com/) | World leader in 3G and next-generation mobile technologies.        | 
 
 ### :computer: APIs
 
@@ -76,7 +78,7 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [PubNub](https://www.pubnub.com/) | Provides real-time services and APIs for developers for mobile, web and IoT. |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
 | 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
-
+| 🎗️ | [Nexmo](https://www.nexmo.com/) | Allows developers to embed programmable text, chat and voice communications into apps, websites and business systems.    |
 
 
 ### 💻 CI
