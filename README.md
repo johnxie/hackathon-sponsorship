@@ -73,6 +73,10 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [Wolfram](https://www.wolfram.com/hackathons/) | Amazing API sponsor, great at engaging with and supporting hackers.|
 | 🎗️ | [Lyft](https://www.lyft.com) | Ride sharing service, most recently promoting their new API.|
+| 🎗️ | [PubNub](https://www.pubnub.com/) | Provides real-time services and APIs for developers for mobile, web and IoT. |
+| 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
+| 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
+
 
 
 ### 💻 CI
@@ -108,14 +112,11 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [Web Applications UK](https://www.webapplicationsuk.com/) | Bespoke travel software passionately made in the UK.  |
 | 🎗️ | [Barclays](https://www.home.barclays/) | 325 years of banking expertise.    |
 | 🎗️ | [Cake Solutions](http://www.cakesolutions.net/) | Enterprise software services.    |
-| 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
 | 🎗️ | [Codethink](https://www.codethink.co.uk/) | The Systems Software Experts.    |
 | 🎗️ | [FlossUK](https://www.flossuk.org/) | Free Libre and Open Source Systems.    |
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
-| 🎗️ | [PubNub](https://www.pubnub.com/) | Provides real-time services and APIs for developers for mobile, web and IoT. |
-| 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
 | 🎗️ | [CARFAX](https://www.carfax.eu) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. They’ve got tons of job opportunities for hackers to jumpstart their careers early!|
 | 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
 | 🎗️ | [AND Digital](https://and.digital/) | Building and developing software products in multiple languages.|
