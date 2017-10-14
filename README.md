@@ -36,6 +36,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  | 🎗️ | [Red Bull](http://energydrink.redbull.com/) | Giving wings to people and ideas.        |
  | 🎗️ | [Takeaway](https://www.takeaway.com) | Order food the easy way.        |
  | 🎗️ | [Awake Chocolate](https://awakechocolate.com) | Delicious caffeinated milk chocolate.        | 
+ | 🎗️ | [Potbelly](http://www.potbelly.com/) | The Neighborhood Sandwich Shop      | 
 
 
  ### :office::house: Venues
@@ -69,6 +70,7 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
 | 🎗️ | [Qualcomm](https://www.qualcomm.com/) | World leader in 3G and next-generation mobile technologies.        | 
+| 🎗️ | [Amazon Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) |Amazon Echo is a hands-free speaker you control with your voice.        | 
 
 ### :computer: APIs
 
@@ -131,6 +133,8 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [P2Pkit](http://p2pkit.io/) | Enable your apps to understand their proximity to nearby devices.|
 | 🎗️ | [Chirp](https://www.chirp.io/) | Connecting millions of devices for leading brands in over 90 countries.|
 | 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound.|
+| 🎗️ | [Carfax](https://jobs.jobvite.com/carfax/) | Carfax is the leading source in vehicle history for buyers and sellers of used cars. |
+| 🎗️ | [BNY Mellon](https://www.bnymellon.com/) | BNY Mellon is a worldwide banking & financial services holding company. |
 | 🎗️ | [Amazon Web Services](https://aws.amazon.com/) | Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality.|
 | 🎗️ | [Qualtrics](https://www.qualtrics.com/) | Qualtrics is a privately held experience management company. |
 
