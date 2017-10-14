@@ -22,6 +22,9 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Sticker Mule](https://www.stickermule.com) | Custom stickers that kick ass. |
 | 🎗️ | [Heroku](https://heroku.com/)    |    A cloud application platform for Ruby, Rails, Node.  |
 | 🎗️ | [Bitbucket](https://bitbucket.org/)    |    A code hosting site, for the Git and Mercurial version control system.  |
+| 🎗️ | [Domain.com](https://www.domain.com/) | One of the world's top players in domain registration and web hosting.        |
+| 🎗️ | [Bloomberg](https://www.bloomberg.com/) | Bloomberg delivers business and markets news, data, analysis, and video to the world. |
+| 🎗️ | [Soylent](https://www.soylent.com/) | Soylent is a pioneer in food technology, producing healthy, functional foods that are good for the body and the planet. |
 
  ### :hamburger::pizza: Food
  
@@ -79,6 +82,7 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Build cognitive apps. |
 | 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
 | 🎗️ | [Nexmo](https://www.nexmo.com/) | Allows developers to embed programmable text, chat and voice communications into apps, websites and business systems.    |
+| 🎗️ | [Softheon](https://www.softheon.com/) | Softheon designs and deploys federal and state health insurance exchange (HIX) marketplace interaction and integration solutions.    |
 
 
 ### 💻 CI
@@ -127,7 +131,8 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [P2Pkit](http://p2pkit.io/) | Enable your apps to understand their proximity to nearby devices.|
 | 🎗️ | [Chirp](https://www.chirp.io/) | Connecting millions of devices for leading brands in over 90 countries.|
 | 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound.|
-
+| 🎗️ | [Amazon Web Services](https://aws.amazon.com/) | Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality.|
+| 🎗️ | [Qualtrics](https://www.qualtrics.com/) | Qualtrics is a privately held experience management company. |
 
  
  ## License
