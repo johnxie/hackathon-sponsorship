@@ -1,17 +1,17 @@
 # Hackathon Sponsorship [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- 
+
 An 'Awesome List' of companies to contact when looking for sponsorship for a hackathon.
- 
- 
- 
+
+
+
  ## Potential Sponsors
- 
+
  ### Think there's someone missing? Add them here!
- 
+
  ### :gift: Swag
- 
+
  These companies generally provide 'swag' for your hackathon, for example: Stickers, Cakes, T-Shirts, Domains, etc.
- 
+
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
@@ -27,7 +27,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Soylent](https://www.soylent.com/) | Soylent is a pioneer in food technology, producing healthy, functional foods that are good for the body and the planet. |
 
  ### :hamburger::pizza: Food
- 
+
   Try these companies if you're looking for 'food' sponsorship:
 
  |    | Sponsor                                                                                                           | Description                                                   |
@@ -35,12 +35,13 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
  | 🎗️ | [Just Eat](https://www.just-eat.co.uk) | Food delivery.         |
  | 🎗️ | [Red Bull](http://energydrink.redbull.com/) | Giving wings to people and ideas.        |
  | 🎗️ | [Takeaway](https://www.takeaway.com) | Order food the easy way.        |
- | 🎗️ | [Awake Chocolate](https://awakechocolate.com) | Delicious caffeinated milk chocolate.        | 
- | 🎗️ | [Potbelly](http://www.potbelly.com/) | The Neighborhood Sandwich Shop      | 
+ | 🎗️ | [Awake Chocolate](https://awakechocolate.com) | Delicious caffeinated milk chocolate.        |
+ | 🎗️ | [Potbelly](http://www.potbelly.com/) | The Neighborhood Sandwich Shop      |
+ | 🎗️ | [Domino's](http://www.dominos.com/) | Worldwide Pizza Shop       |
 
 
  ### :office::house: Venues
- 
+
  In need of a venue? These companies have been known to offer free space for hackathons:
 
  |    | Sponsor                                                                                                           | Description                                                   |
@@ -48,7 +49,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Google Campus](https://www.campus.co/) | Free event space & coworking.         |
 
  ### :moneybag: Money
- 
+
  Need some money for your hackathon? Try these kind companies:
 
  |    | Sponsor                                                                                                           | Description                                                   |
@@ -68,9 +69,11 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Oculus VR](https://www.oculus.com/) | Oculus is making it possible to experience anything, anywhere, through the power of virtual reality.         |
 | 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Makers of the Myo Gesture Control Armband.        |
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
-| 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
-| 🎗️ | [Qualcomm](https://www.qualcomm.com/) | World leader in 3G and next-generation mobile technologies.        | 
-| 🎗️ | [Amazon Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) |Amazon Echo is a hands-free speaker you control with your voice.        | 
+| 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       |
+| 🎗️ | [Qualcomm](https://www.qualcomm.com/) | World leader in 3G and next-generation mobile technologies.        |
+| 🎗️ | [Amazon Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) |Amazon Echo is a hands-free speaker you control with your voice.        |
+| 🎗️ | [Google home](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) | Google Home is a hands-free speaker you control with your voice.        |
+| 🎗️ | [Gear VR](http://www.samsung.com/global/galaxy/gear-vr/) | Samsung's VR project        |
 
 ### :computer: APIs
 
@@ -88,7 +91,7 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 
 
 ### 💻 CI
- 
+
  Need a continuous integration service? Check out one of these.
 
  |    | Sponsor                                                                                                           | Description                                                   |
@@ -106,7 +109,7 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [Bitrise](https://www.bitrise.io/) | Automate your iOS development - From building through testing to deployment Bitrise can automate your daily development tasks. |
 
  ### 🤔 Other
- 
+
  Other generous companies that often sponsor hackathons. (Create new categories if you have ideas!)
 
  |    | Sponsor                                                                                                           | Description                                                   |
@@ -138,9 +141,9 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [Amazon Web Services](https://aws.amazon.com/) | Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality.|
 | 🎗️ | [Qualtrics](https://www.qualtrics.com/) | Qualtrics is a privately held experience management company. |
 
- 
+
  ## License
- 
+
  [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
- 
+
  To the extent possible under law, [Andrew Raynes](https://twitter.com/raynes_cc) has waived all copyright and related or neighboring rights to this work.
