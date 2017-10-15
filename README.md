@@ -25,7 +25,8 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Domain.com](https://www.domain.com/) | One of the world's top players in domain registration and web hosting.        |
 | 🎗️ | [Bloomberg](https://www.bloomberg.com/) | Bloomberg delivers business and markets news, data, analysis, and video to the world. |
 | 🎗️ | [Soylent](https://www.soylent.com/) | Soylent is a pioneer in food technology, producing healthy, functional foods that are good for the body and the planet. |
-
+| 🎗️ | [Circleci](https://circleci.com/) | CircleCI makes continuous integration and continuous deployment simple and easy for thousands of companies. |
+| 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Transform your business, enhance competitive advantage, and disrupt your industry by unlocking the potential within unstructured data. |
  ### :hamburger::pizza: Food
 
   Try these companies if you're looking for 'food' sponsorship:
