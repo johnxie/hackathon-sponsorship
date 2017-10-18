@@ -74,8 +74,7 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Amazon Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) |Amazon Echo is a hands-free speaker you control with your voice.        |
 | 🎗️ | [Google home](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E) | Google Home is a hands-free speaker you control with your voice.        |
 | 🎗️ | [Gear VR](http://www.samsung.com/global/galaxy/gear-vr/) | Samsung's VR project        |
-
-### :computer: APIs
+| 🎗️ | [Raspberry PI](http://raspberrypi.org) | Teach, Learn, Make with the Raspberry Pi        |
 
 These sponsors come to events to encourage hackers to hack with their APIs and often offer prizes.
 
@@ -88,7 +87,7 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
 | 🎗️ | [Nexmo](https://www.nexmo.com/) | Allows developers to embed programmable text, chat and voice communications into apps, websites and business systems.    |
 | 🎗️ | [Softheon](https://www.softheon.com/) | Softheon designs and deploys federal and state health insurance exchange (HIX) marketplace interaction and integration solutions.    |
-
+| 🎗️ | [Darksky](https://darksky.net/dev) | The best weather API        |
 
 ### 💻 CI
 
