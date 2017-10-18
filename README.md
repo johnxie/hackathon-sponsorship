@@ -26,6 +26,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Bloomberg](https://www.bloomberg.com/) | Bloomberg delivers business and markets news, data, analysis, and video to the world. |
 | 🎗️ | [Soylent](https://www.soylent.com/) | Soylent is a pioneer in food technology, producing healthy, functional foods that are good for the body and the planet. |
 | 🎗️ | [Circleci](https://circleci.com/) | CircleCI makes continuous integration and continuous deployment simple and easy for thousands of companies. |
+| 🎗️ | [Nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/) | The GPU hardware company offer acceleration to deep learning.        |
 
  ### :hamburger::pizza: Food
 
