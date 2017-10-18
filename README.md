@@ -139,7 +139,7 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [BNY Mellon](https://www.bnymellon.com/) | BNY Mellon is a worldwide banking & financial services holding company. |
 | 🎗️ | [Amazon Web Services](https://aws.amazon.com/) | Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality.|
 | 🎗️ | [Qualtrics](https://www.qualtrics.com/) | Qualtrics is a privately held experience management company. |
-
+| 🎗️ | [Freenom](http://www.freenom.com/en/index.html) | Free .tk, .ml, .ga, .cf, .gq |
 
  ## License
 
