@@ -2,31 +2,29 @@
 
 An 'Awesome List' of companies to contact when looking for sponsorship for a hackathon.
 
-
-
  ## Potential Sponsors
 
  ### Think there's someone missing? Add them here!
 
  ### :gift: Swag
 
- These companies generally provide 'swag' for your hackathon, for example: Stickers, Cakes, T-Shirts, Domains, etc.
+ These companies generally provide 'swag' for your hackathons, for example: Stickers, Cakes, T-Shirts, Domains, etc.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
-| 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is version control platform for the everyday coder.  |
+| 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is a version control platform for the everyday coder.  |
 | 🎗️ | [Digital Ocean](https://www.digitalocean.com/community/questions/discounts-or-support-for-nonprofit-organisation) | Need web hosting, cloud storage? Get a droplet today.         |
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
 | 🎗️ | [Unixstickers](http://www.unixstickers.com/) | Stickers, t-shirts, mugs and posters on unix, programming and open source.        |
 | 🎗️ | [Sticker Mule](https://www.stickermule.com) | Custom stickers that kick ass. |
 | 🎗️ | [Heroku](https://heroku.com/)    |    A cloud application platform for Ruby, Rails, Node.  |
-| 🎗️ | [Bitbucket](https://bitbucket.org/)    |    A code hosting site, for the Git and Mercurial version control system.  |
+| 🎗️ | [Bitbucket](https://bitbucket.org/)    |    A code hosting site, for Git and Mercurial version control system.  |
 | 🎗️ | [Domain.com](https://www.domain.com/) | One of the world's top players in domain registration and web hosting.        |
-| 🎗️ | [Bloomberg](https://www.bloomberg.com/) | Bloomberg delivers business and markets news, data, analysis, and video to the world. |
+| 🎗️ | [Bloomberg](https://www.bloomberg.com/) | Bloomberg delivers business and markets news, data, analysis, and videos to the world. |
 | 🎗️ | [Soylent](https://www.soylent.com/) | Soylent is a pioneer in food technology, producing healthy, functional foods that are good for the body and the planet. |
-| 🎗️ | [Circleci](https://circleci.com/) | CircleCI makes continuous integration and continuous deployment simple and easy for thousands of companies. |
-| 🎗️ | [Nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/) | The GPU hardware company offer acceleration to deep learning.        |
+| 🎗️ | [CircleCI](https://circleci.com/) | CircleCI makes continuous integration and continuous deployment simple and easy for thousands of companies. |
+| 🎗️ | [Nvidia](https://www.nvidia.com/en-us/deep-learning-ai/education/) | The GPU hardware company offers acceleration for deep learning.        |
 
  ### :hamburger::pizza: Food
 
@@ -68,7 +66,7 @@ Looking to get some hardware for your hackathon? These are your guys:
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [Estimote](https://estimote.com/) | Estimote Beacons — real world context for your apps.         |
 | 🎗️ | [Muse](http://www.choosemuse.com/) | The brain sensing headband.         |
-| 🎗️ | [Oculus VR](https://www.oculus.com/) | Oculus is making it possible to experience anything, anywhere, through the power of virtual reality.         |
+| 🎗️ | [Oculus VR](https://www.oculus.com/) | Oculus is making it possible to experience anything, anywhere through the power of virtual reality.         |
 | 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Makers of the Myo Gesture Control Armband.        |
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       |
