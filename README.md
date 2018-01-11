@@ -4,7 +4,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 
  ## Potential Sponsors
 
- ### Think there's someone missing? Add them here!
+ ### Think there's someone missing? Add it here!
 
  ### :gift: Swag
 
