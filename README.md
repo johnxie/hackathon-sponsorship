@@ -1,6 +1,6 @@
 # Hackathon Sponsorship
 
-Simply a list of companies to contact when looking for sponsorship for a hackathon. I had success with a good number of these companies when organising [Hack Cancer]()
+Simply a list of companies to contact when looking for sponsorship for a hackathon. I had success with a good number of these companies when organising [Hack Cancer](https://ajukco.github.io/hackcancer/)
 
  ## Potential Sponsors
 
