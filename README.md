@@ -1,6 +1,6 @@
 # Hackathon Sponsorship
 
-Simply a list of companies to contact when looking for sponsorship for a hackathon. I had success with a good number of these companies when organising [Hack Cancer](https://ajukco.github.io/hackcancer/)
+Simply a list of companies to contact when looking for sponsorship for a hackathon. I had success with a good number of these companies when organising [Hack Cancer](https://raynesio.github.io/hackcancer/)
 
  ## Potential Sponsors
 
@@ -142,4 +142,4 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [Freenom](http://www.freenom.com/en/index.html) | Free .tk, .ml, .ga, .cf, .gq |
 
  ---
-👨‍💻 Follow me on [Twitter](https://twitter.com/ajukco).
+👨‍💻 Follow me on [Twitter](https://twitter.com/raynesio.
