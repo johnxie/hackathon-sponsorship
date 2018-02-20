@@ -142,4 +142,4 @@ These sponsors come to events to encourage hackers to hack with their APIs and o
 | 🎗️ | [Freenom](http://www.freenom.com/en/index.html) | Free .tk, .ml, .ga, .cf, .gq |
 
  ---
-👨‍💻 Follow me on [Twitter](https://twitter.com/raynesio.
+👨‍💻 Follow me on [Twitter](https://twitter.com/raynesio)
