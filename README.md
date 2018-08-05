@@ -76,7 +76,9 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Gear VR](http://www.samsung.com/global/galaxy/gear-vr/) | Samsung's VR project        |
 | 🎗️ | [Raspberry PI](http://raspberrypi.org) | Teach, Learn, Make with the Raspberry Pi        |
 
-These sponsors come to events to encourage hackers to hack with their APIs and often offer prizes.
+ ### API Sponsors
+ 
+ These sponsors come to events to encourage hackers to hack with their APIs and often offer prizes.
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
