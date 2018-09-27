@@ -57,6 +57,7 @@ Simply a list of companies to contact when looking for sponsorship for a hackath
  | 🎗️ | [Capital One](https://www.capitalone.co.uk/) | Credit Cards.         |
  | 🎗️ | [Curve](https://www.imaginecurve.com/) | Connect all your (Credit) cards together.         |
  | 🎗️ | [BlackRock](https://www.blackrock.com) |  Trusted to manage more money than any other investment manager in the world.         |
+ | 🎗️ | [Balsamiq](https://balsamiq.com) | The maker of industry-leading rapid wireframing software.         |
 
 ### :computer: Hardware
 
