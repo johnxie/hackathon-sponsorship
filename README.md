@@ -143,3 +143,4 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [Amazon Web Services](https://aws.amazon.com/) | Amazon Web Services (AWS) is a secure cloud services platform, offering compute power, database storage, content delivery and other functionality.|
 | 🎗️ | [Qualtrics](https://www.qualtrics.com/) | Qualtrics is a privately held experience management company. |
 | 🎗️ | [Freenom](http://www.freenom.com/en/index.html) | Free .tk, .ml, .ga, .cf, .gq |
+| 🎗️ | [.tech](https://get.tech) | Domain names for the new tech revolution |
