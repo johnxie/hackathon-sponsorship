@@ -146,5 +146,7 @@ Looking to get some hardware for your hackathon? These are your guys:
 | 🎗️ | [.tech](https://get.tech) | Domain names for the new tech revolution |
 | 🎗️ | [XYZ](https://gen.xyz) | alternative domain provider along with swag|
 | 🎗️ | [Linode](https://www.linode.com) | cloud hosting platorm for developers|
+| 🎗️ | [Jumpstart](https://jumpstart.me/) | 3$ per signup using their custom link |
+
 
 
